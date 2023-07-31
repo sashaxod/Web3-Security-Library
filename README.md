@@ -1,5 +1,5 @@
-# Web3 Security Library
-This is a collaborative repository that aims to contain all the information you need to start or expand your knowledge in web3 security.
+# Web3 библиотека безопасности
+Это репозиторий для совместной работы, цель которого — содержать всю информацию, необходимую для начала или расширения ваших знаний в области безопасности web3.
 
 ## Annexure
 
